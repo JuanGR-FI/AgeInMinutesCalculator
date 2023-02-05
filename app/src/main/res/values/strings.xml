@@ -3,7 +3,7 @@
     <string name="NoDateSelected">--/--/----</string>
     <string name="selected_date">Selected Date</string>
     <string name="NoDateInMinutes">----------</string>
-    <string name="selected_date_in_minutes">Selected Date</string>
+    <string name="selected_date_in_minutes">Date in Minutes</string>
     <string name="select_date_btn">SELECT DATE</string>
     <string name="in_minutes">IN MINUTES</string>
     <string name="age">AGE</string>
